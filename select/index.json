@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "白い恋人達 - Shiroi Koibitotachi",
+  "base_artist": "Keisuke Kuwata",
+  "createdAt": "2026-03-22T02:07:36.686895Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "白い恋人達",
+      "artist": "高木 一江",
+      "has_synced": false,
+      "path": "select/01_白い恋人達_高木_一江.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "白い恋人達",
+      "artist": "高木一江",
+      "has_synced": false,
+      "path": "select/02_白い恋人達_高木一江.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "白い恋人達",
+      "artist": "川畑 要",
+      "has_synced": true,
+      "path": "select/03_白い恋人達_川畑_要.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "白い恋人達",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/04_白い恋人達_平井_堅.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "白い恋人達 - Shiroi Koibitotachi",
+      "artist": "Keisuke Kuwata",
+      "has_synced": true,
+      "path": "select/05_白い恋人達_-_Shiroi_Koibitotachi_Keisuke_Kuwata.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "白い恋人達",
+      "artist": "Crystal Kay",
+      "has_synced": true,
+      "path": "select/06_白い恋人達_Crystal_Kay.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "白い恋人達",
+      "artist": "Kay, Crystal",
+      "has_synced": true,
+      "path": "select/07_白い恋人達_Kay,_Crystal.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "白い恋人達",
+      "artist": "BENI",
+      "has_synced": false,
+      "path": "select/08_白い恋人達_BENI.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "白い恋人達",
+      "artist": "平井堅",
+      "has_synced": false,
+      "path": "select/09_白い恋人達_平井堅.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "白い恋人達",
+      "artist": "Asako Toki",
+      "has_synced": true,
+      "path": "select/10_白い恋人達_Asako_Toki.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "白い恋人達",
+      "artist": "Beni Arashiro",
+      "has_synced": false,
+      "path": "select/11_白い恋人達_Beni_Arashiro.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "白い恋人達",
+      "artist": "クリス・ハート",
+      "has_synced": true,
+      "path": "select/12_白い恋人達_クリス・ハート.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白い恋人達",
+      "artist": "桑田 佳祐",
+      "has_synced": false,
+      "path": "select/pl_01_白い恋人達_桑田_佳祐.txt"
+    }
+  ]
+}
